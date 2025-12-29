@@ -40,10 +40,47 @@ endif()
 
 ### Project Sources ###
 set(PROJECT_HEADERS
+    include/Game.hpp
+    include/Pony.hpp
+    include/Role.hpp
+    include/roles/Bodyguard.hpp
+    include/roles/ChangelingConsort.hpp
+    include/roles/ChangelingDrone.hpp
+    include/roles/ChangelingForger.hpp
+    include/roles/ChangelingQueen.hpp
+    include/roles/Drunk.hpp
+    include/roles/Gumshoe.hpp
+    include/roles/Jailor.hpp
+    include/roles/Mule.hpp
+    include/roles/Nurse.hpp
+    include/roles/PartyPony.hpp
+    include/roles/Pinkamena.hpp
+    include/roles/Reporter.hpp
+    include/roles/Spellcaster.hpp
+    include/roles/Veteran.hpp
+    include/roles/Watchpony.hpp
 )
 
 set(PROJECT_SOURCES
     src/main.cpp
+    src/Game.cpp
+    src/Pony.cpp
+    src/roles/Bodyguard.cpp
+    src/roles/ChangelingConsort.cpp
+    src/roles/ChangelingDrone.cpp
+    src/roles/ChangelingForger.cpp
+    src/roles/ChangelingQueen.cpp
+    src/roles/Drunk.cpp
+    src/roles/Gumshoe.cpp
+    src/roles/Jailor.cpp
+    src/roles/Mule.cpp
+    src/roles/Nurse.cpp
+    src/roles/PartyPony.cpp
+    src/roles/Pinkamena.cpp
+    src/roles/Reporter.cpp
+    src/roles/Spellcaster.cpp
+    src/roles/Veteran.cpp
+    src/roles/Watchpony.cpp
 )
 
 
