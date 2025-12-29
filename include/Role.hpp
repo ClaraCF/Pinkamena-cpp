@@ -1,0 +1,21 @@
+#pragma once
+
+enum Role {
+    CHANGELING_QUEEN,
+    CHANGELING_DRONE,
+    CHANGELING_FORGER,
+    CHANELING_CONSORT,
+    PINKAMENA,
+    MULE,
+    DRUNK,
+    JAILOR,
+    SPELLCASTER,
+    REPORTER,
+    GUMSHOE,
+    NURSE,
+    BODYGUARD,
+    WATCHPONY,
+    PARTY_PONY,
+    VETERAN,
+};
+
