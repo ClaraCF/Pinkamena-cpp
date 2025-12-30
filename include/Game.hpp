@@ -5,7 +5,8 @@
 #include "Pony.hpp"
 #include "Role.hpp"
 
-class Game {
+class Game
+{
 private:
     Pony m_Ponies[16];
 };

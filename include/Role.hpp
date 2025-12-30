@@ -1,6 +1,7 @@
 #pragma once
 
-enum Role {
+enum Role
+{
     CHANGELING_QUEEN,
     CHANGELING_DRONE,
     CHANGELING_FORGER,
