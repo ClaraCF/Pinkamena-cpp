@@ -40,9 +40,12 @@ endif()
 
 ### Project Sources ###
 set(PROJECT_HEADERS
+    include/Changeling.hpp
     include/Game.hpp
     include/Pony.hpp
     include/Role.hpp
+    include/RoleResult.hpp
+    include/SuicideReason.hpp
     include/roles/Bodyguard.hpp
     include/roles/ChangelingConsort.hpp
     include/roles/ChangelingDrone.hpp
@@ -63,8 +66,10 @@ set(PROJECT_HEADERS
 
 set(PROJECT_SOURCES
     src/main.cpp
+    src/Changeling.cpp
     src/Game.cpp
     src/Pony.cpp
+    src/RoleResult.cpp
     src/roles/Bodyguard.cpp
     src/roles/ChangelingConsort.cpp
     src/roles/ChangelingDrone.cpp
@@ -83,6 +88,18 @@ set(PROJECT_SOURCES
     src/roles/Watchpony.cpp
 )
 
+set(COMPILER_FLAGS
+    -Wall
+    -Wextra
+    -Wpedantic
+    -Wshadow
+    -Wconversion
+)
+
+set(LINKER_FLAGS
+    "${COMPILER_FLAGS}"
+)
+
 
 # Target binary
 add_executable(${PROJECT_NAME} ${PROJECT_HEADERS} ${PROJECT_SOURCES})
@@ -95,11 +112,42 @@ set_target_properties(${PROJECT_NAME} PROPERTIES
     CXX_EXTENSIONS NO
 )
 
-# Add additional flags for performance to Release build type
-if(CMAKE_BUILD_TYPE EQUAL "Release")
-    target_compile_options(${PROJECT_NAME} PUBLIC "${SYSTEM_TUNING_FLAGS}")
-    target_link_libraries(${PROJECT_NAME} PUBLIC "${SYSTEM_TUNING_FLAGS} -s")
+# Add diagnostic flags for Debug build type
+if(CMAKE_BUILD_TYPE STREQUAL "Debug")
+    set(COMPILER_FLAGS
+        ${COMPILER_FLAGS}
+        -O0
+        -g
+        -fno-limit-debug-info
+        -fsanitize=address
+        -fsanitize=undefined
+        -fstack-protector-strong
+    )
+
+    set(LINKER_FLAGS
+        "${COMPILER_FLAGS}"
+        "${LINKER_FLAGS}"
+    )
 endif()
+
+# Add additional flags for performance to Release build type
+if(CMAKE_BUILD_TYPE STREQUAL "Release")
+    set(COMPILER_FLAGS
+        "${COMPILER_FLAGS}"
+        "${SYSTEM_TUNING_FLAGS}"
+        -Werror
+    )
+
+    set(LINKER_FLAGS
+        "${COMPILER_FLAGS}"
+        "${LINKER_FLAGS}"
+        -s
+    )
+endif()
+
+# Add compiler and linker flags
+target_compile_options(${PROJECT_NAME} PUBLIC "${COMPILER_FLAGS}")
+target_link_libraries(${PROJECT_NAME} PUBLIC "${LINKER_FLAGS}")
 
 
 # Project include directory

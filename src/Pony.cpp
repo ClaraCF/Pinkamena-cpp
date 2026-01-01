@@ -1,7 +1,22 @@
 #include "Pony.hpp"
 
-Pony::Pony(const std::string &name, const Role &role)
-    : m_Name(name), m_Role(role) {}
+/* public:
+public:
+    std::string GetName() const;
+    Role GetRole() const;
+
+public:
+
+public:
+    bool IsMagicImmune() const;
+    bool IsNightImmune() const; */
+
+Pony::Pony(
+    const std::string &name,
+    Role role,
+    bool magicImmune,
+    bool nightImmune
+) : m_Name(name), m_Role(role), m_MagicImmune(magicImmune), m_NightImmune(nightImmune) {}
 
 std::string Pony::GetName() const
 {
@@ -11,5 +26,20 @@ std::string Pony::GetName() const
 Role Pony::GetRole() const
 {
     return m_Role;
+}
+
+void Pony::SetNightImmune(bool nightImmune)
+{
+    m_NightImmune = nightImmune;
+}
+
+bool Pony::IsMagicImmune() const
+{
+    return m_MagicImmune;
+}
+
+bool Pony::IsNightImmune() const
+{
+    return m_NightImmune;
 }
 

@@ -1,0 +1,224 @@
+The Jailor's Report, Night .
+I received and understood your orders to take R
+ into custody. I can confirm that she spent the night safely locked up in my cell.%
+Your humble servant, The Jailor Pony.
+Jailor confirmed that 
+ was in her cell all night.g
+ into custody. However, there were circumstances that made it impossible for me to carry out this duty.
+Apologies, The Jailor Pony.
+Jailor role blocked.
+
+
+Spellcaster ordered to attack 6
+Spellcaster failed because it would have been suicide!'
+Spellcaster reports success in killing 1
+The Great & Powerful Spellcaster's Report, Night a
+Sir, this afternoon I received secret orders instructing me to cast a kill hex upon a pony named a
+Unfortunately circumstances prevented me from being able to carry out my instructions. Apologies.(
+Yours, The Great & Powerful Spellcaster.
+Spellcaster was roleblocked.%
+Sir: Although I cast the kill hex on 1
+ as ordered, I must report that it had no effect.
+This would indicate that 
+ is either immune to my magic or was protected somehow. Please also consider that magic is a difficult study and all spells have a small chance to simply fail, even from one as powerful as I.#
+I hope you will forgive my failure.!
+The Great & Powerful Spellcaster.6
+Spellcaster reports that her kill hex was ineffective.
+I will take this as a compliment to the brilliance of my incognito, for I am unable to comply with this order as it would be nothing less than suicide!v
+As my identity is now revealed to you, my life is in your hooves. I trust you will take this responsibility seriously.!
+Ever yours, The Great & Powerful (
+Spellcaster revealed her identity to be a
+Sir: This afternoon I recieved secret orders instructing me to cast a kill hex upon a pony named }
+I may report that I have successfully carried out this mission. The kill hex took effect and the target was killed instantly.M
+I trust in your judgement sir, and I am certain the morning will reveal that 
+ was of evil intent./
+Respectfully, The Great & Powerful Spellcaster.
+
+
+Reporter ordered to snoop on '
+Breaking News from The Reporter, Night <
+Yesterday I was given secret orders to dish up some dirt on 7
+. Having sifted through her garbage, I can report that 2
+she appears to be a regular law-abiding Townspony.
+Reporter reports 
+ appears to be a townspony.4
+I am certain she is a dirty Changeling of some kind!
+ appears to be a Changeling.Y
+I found tattered pieces of cutie marks, teeth and bloody clothing. She must be Pinkamena!
+ appears to be Pinkamena.7
+it was almost entirely made up of empty liquor bottles.
+ appears to be the Town Drunk.
+Some slimebag has tried to frame this pony as a Changeling! But I can tell you for a fact that it isn't so! This pony is innocent, you have to believe me!
+Reporter claims 
+ appears to have been framed.9
+I hope this information is helpful to your investigation.
+Intrepidly yours,
+The Reporter. 
+Breaking News from The Reporter!K
+. However, I was prevented from doing this due to unexpected circumstances.
+Many apologies,
+Reporter was role blocked.
+
+
+Gumshoe ordered to investigate  
+The Gum-Horse-Shoe Files, Night 	
+Hey Boss,0
+So I got your orders and set out to investigate 
+ just like you wanted.x
+Seems she likes dishing out orders and has combat experience. She could be a veteran, bodyguard or the Changeling Queen.n
+This pony seems a little shady to me, always sneaking around. Could be a Changeling drone, or just a reporter.
+This one seems kind of an egghead, messing around with bits of paper and books. Might be a Spellcaster, or she might be the Changeling Forger.
+Well, she's a real ball of fire! Looks that could kill, highly distracting. I reckon she's either a Party Pony or a Changeling Consort!
+I got kind of uneasy when I saw the kind of blades and tools she was carrying around. Maybe she's our Nurse - 'cos if not, I just found Pinkamena.{
+Got a real negative vibe off this pony. Kind of gloomy. Might be in the jailor trade, or just one of those miserable Mules.
+This girl seems to like to hang on her own, wandering around town in the dead of night. Could be a Watchpony, or just a sad drunk.g
+I'm going to have to tell ya - that happens to be my own incognito! Let's keep it on the down-low, huh?
+
+Gumshoe reports /
+ may be Veteran, Bodyguard or Changeling Queen.%
+ may be Changeling Drone or Reporter.)
+ may be Spellcaster or Changeling Forger.)
+ may be Party Pony or Changeling Consort.
+ may be Nurse or Pinkamena.
+ may be Jailor or the Mule.$
+ may be Watchpony or the Town Drunk.
+ is her own identity.
+However, the evidence about 
+ didn't add up. I'm certain that somepony was trying to pull the wool over my eyes, and It's a safe bet that somepony was the Changeling Forger. She doesn't get to trick me as easy as that.
+Gumshoe reports evidence that 
+ was framed.
+Well, let me tell you something. This pony has been framed, stiched up like a kipper by a dirty Changeling Forger. And I happen to know that because I AM that pony! They've sure got a lot of nerve!-
+Hope this helps ya out, Boss. Catch ya Later.
+ ~ Gumshoe ~6
+So I got your orders and was preparing to investigate u
+ like you said, but... well, the short version is I was a little held up and missed my chance. Real sorry about this.
+Don't sweat it. We'll get 'em.
+Gumshoe was role blocked.
+Nurse ordered to protect 
+Medical Report, Night 
+My Captain,^
+Further to the secret orders you gave me, I spent the night on call ready to save the life of 
+ if required.s
+I'm sorry to say I was detained unexpectedly, for reasons I would rather not discuss. I offer my sincere apologies.
+Nurse was role blocked.7
+However, I'm glad to say my services were not required.
+Nurse reports no attacks on o
+There was indeed an attack upon this pony by an unknown assailant, but fortunately I was able to save her life.$
+Nurse reports she saved the life of 
+ following an attack.
+CgkIudeyh9YZEAIQHwK
+Do not hesitate to call on me again if it means saving precious pony lives!
+Yours faithfully,
+The Town Nurse
+Watchpony ordered to watch 	
+'s house.
+WATCHPONY'S REPORT, NIGHT 
+Dear Captain,
+As ordered, I kept !
+'s house under close observation.#
+Watchpony observed any visitors to 
+The following ponies visted my target:
+The following were seen: 
+This pony visted my target:
+One was seen. 
+No ponies visited my target.
+None were seen. 
+Respectfully yours, 
+The Watchpony#
+As you know, I was ordered to keep 
+ under close observation.k
+However, due to an unforseen occurrence, I was unable to do my duty this night. Please accept my apologies.
+Watchpony was role blocked. 
+Party Pony ordered to entertain '
+From the Desk of The Party Pony, Night 
+!!!9
+I was so excited to get your orders to throw a party for V
+! We had a huge time! I stuffed her with cake and cider till dawn, then sent her home!
+Whew! Some night!
+Love, The Party Pony xoxo
+Party Pony reports that 
+ was successfully partied.[
+I was thrilled you ordered a surprise party, but imagine MY surprise when I saw it was for 
+! Because the super-silly thing is that meant I had to throw a party for MYSELF!! Woohoo! So I can confirm I did, and I had a great time and never left my sight all night!!
+Best party EVER!!
+Love, 
+ xoxoxox$
+Party Pony revealed her identity is 8
+I was so looking forward to throwing a massive bash for m
+ like you ordered, but I'm afraid some party-pooper kind of made it impossible for me to work that night! So +
+ never got her party. Really really sorry!!
+ SUPER sorry!!
+Love n' hugs, The Party Pony xoxo
+Party Pony was roleblocked.
+Bodyguard ordered to guard 
+BODYGUARD'S REPORT, NIGHT 
+Nothing to report. Client 
+ unharmed.
+Over and out. Bodyguard.
+Received Orders to guard w
+. Unable to carry out, due to this being myself. My training does not cover self-defence, only how to protect a client.!
+Bodyguard revealed herself to be @
+. Unable to carry out due to unforseen circumstances. Apologies.
+Bodyguard was role blocked.*
+
+
+Veteran ordered to shoot anypony on sight.
+VETERAN'S DEBRIEFING, NIGHT 
+Sir:V
+Kept my weapon locked and loaded and my eyes on the perimeter in case of enemy attack.&
+No movement to report. No shots fired.!
+Sir, end of report, Sir. Veteran.
+Veteran reported no intruders.l
+Sure enough, one shady character stepped onto my lawn. I opened fire and the shot was effective. Tango down.
+Veteran shot one target.
+Sure enough, one shady character stepped onto my lawn, quickly followed by another. I opened fire and eliminated the enemy. Mission a success.
+Veteran shot two targets.w
+Sure enough, several shady character stepped onto my lawn. I opened fire and dispatched every enemy in sight. Job done.
+Veteran shot multiple targets.
+CgkIudeyh9YZEAIQHg
+
+
+Forger's Report, Night 3
+As ordered, I attempted to frame the pony known as X
+I regret that I failed to do so, as I had to spend the night in a filthy pony jail cell.
+But I could not do so - '
+ was locked in the town jail all night.
+However, when I broke into her house it soon became clear that she was in fact - Pinkamena! I realised my life was forfeit if she were to catch me, and I ran before she should return!
+Forgive me! I did not do so as a most alluring creature came to my house bearing cake and soda and she partied with me the whole night long...
+This was successfully done.<
+I can also report I found evidence that revealed her role - 
+Your loyal servant, The Forger
+
+
+Diary of a Consort, Night +
+As is my duty, I was to change myself into "
+'s greatest desire and seduce her.b
+Sadly I was unable to do this, as the town's jailor took me and held me in her cell for the night.
+There was something unsettling about her... I looked into her mind to see her desire and you cannot imagine the horror I beheld in her broken, twist thoughts... she is Pinkamena, my Changelings! She is death to us all!N
+However, it was impossible as my target was locked in the town jail all night.
+Just as I was about to leave an amazing pony appeared at my cottage, bearing gifts and music... I was entranced... the party she brought took possession of my soul!
+I did this superbly... I took her to new levels of ectasy she had never dreamed of, and all thoughts of duty were dashed from her mind..._
+While in my embrace, she also let slip some interesting information... that she was the town's Y
+And it was made all the sweeter when at the height of our passion, I cut her pony throat!
+Always thine, The Consort
+Drone's Report, Night 
+My mission was clear. "
+ had to die swiftly and painfully.h
+I regret to report that my target was locked that night in the town jail and I was unable to get to her.^
+Imagine my rage when the pathetic town pony jailor ruined everything! I'll make her pay later.
+This delicious task was interrupted by some ridiculous painted pony who insisted I party with her all night. I did so, so as not to arouse suspicion.[
+Although I left that miserable pony for dead, her life was saved by that cursed town Nurse!
+But things turned bad - it turned out that this was none other than the alias of the evil Pinkamena! I was lucky to escape with my life!K
+I'm happy to report that she now lies dead, and her love has been devoured.
+Your very loyal Drone.
+Queen's Journal, Night T
+I cannot take the hunger, the craving for love is too powerful. I decided to attack n
+I drained her dry and left her corpse in the street for the birds to peck at. So die all that would oppose me!5
+I was jailed, jailed by that impudent, arrogant pony _
+! I waited for my opportunity and then cut her down and drained her of every ounce of her love!6
+Can you believe some loudmouthed poltroon pony called 
+ tried to party with me? With ME? I could not contain my rage, and I pushed her face into her own cake and drowned her in frosting - then I drained her every cell of all the love she had! 
+However, it was not to be - for 
+ turned out to be none other than the infamous Pinkamena! Even my powers are unable to destroy her - she will ruin everything! I must make the town kill her for me!
+But I was to be disappointed. She was hidden safely behind the jail walls. Curse that aggravating jailor, she will pay for this!
+I cut her down in the night and drained her... only to later discover that the infuriating town nurse had saved her life! Curses!!

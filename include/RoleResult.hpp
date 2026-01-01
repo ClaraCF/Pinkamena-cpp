@@ -11,7 +11,14 @@ enum RoleExecutionResult
 class RoleResult
 {
 private:
-    RoleExecutionResult m_RoleExecutionResult;
-    std::string m_Report;
+    const RoleExecutionResult m_RoleExecutionResult;
+    const std::string m_Report;
+
+public:
+    RoleResult(const RoleExecutionResult &roleResult, const std::string &report);
+
+public:
+    RoleExecutionResult GetResult() const;
+    std::string GetReport() const;
 };
 
